@@ -1,1 +1,1 @@
-# HTML-CSS-animations
+# HTML-CSS-Animations
